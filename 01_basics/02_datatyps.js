@@ -16,3 +16,6 @@ symbol=>uniqe
 
 console.log(typeof null)//object
 console.log(typeof undifined)//undifined
+
+
+//Using strict and know about data type of js
