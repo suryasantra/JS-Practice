@@ -30,3 +30,36 @@ let stringsomenumber = String(somenumber)
  
 console.log(stringsomenumber)
 console.log(typeof (stringsomenumber))
+
+
+
+//***********************************< OPERTAION >***********************************//
+
+let value = 4
+let negvalue = -value
+console.log(negvalue)
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2)
+console.log(2**3)
+console.log(2%2)
+
+let str1="Hello"
+let str2=" Surya"
+let str3= str1 + str2
+console.log(str3)
+console.log("1" + 2)
+console.log("1" + 2 + 3)
+console.log(1 + 2 + "3")   
+console.log(true)   
+console.log(+true)   
+console.log(+false)   
+console.log(+"") 
+
+let gamecounter = 100
+gamecounter++
+++gamecounter
+
+console.log(gamecounter)
