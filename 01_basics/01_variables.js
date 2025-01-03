@@ -20,4 +20,4 @@ accountCity = "Pune"
 
 console.table([accountId,accountMail,accountPassword,accountCity])
 
-//It is about data type
+//Not use Var
