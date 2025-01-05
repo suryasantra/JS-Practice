@@ -25,5 +25,33 @@ console.log(typeof(bignumber))
  }
  console.log(myfunction)
 
+//
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+//stack(primitive),heap(Non-primitive)
+
+
+//stack based
+
+let myname ="surya"
+naam = myname
+naam = "surjo"
+console.log(myname)
+console.log(naam)
+
+//Heap based
+let userOne={
+   email:"user@google.com",
+   upi:"user@oksbi",
+}
+
+let userTwo = userOne
+userTwo.email = "Santrasurya70@gmail.com"
+console.log(userOne)
+console.log(userTwo)
+ 
 
 
